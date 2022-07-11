@@ -1,4 +1,4 @@
-package com.Bridgelabz.Day09_AddressBookSystem;
+package com.Bridgelabz.Day10_AddressBookSystem;
 
 public class UC1 {
     private String firstName;
